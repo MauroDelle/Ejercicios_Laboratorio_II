@@ -1,0 +1,15 @@
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\bin\Debug\net6.0\Clase_01.exe
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\bin\Debug\net6.0\Clase_01.deps.json
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\bin\Debug\net6.0\Clase_01.runtimeconfig.json
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\bin\Debug\net6.0\Clase_01.dll
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\bin\Debug\net6.0\Clase_01.pdb
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\obj\Debug\net6.0\Clase_01.csproj.AssemblyReference.cache
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\obj\Debug\net6.0\Clase_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\obj\Debug\net6.0\Clase_01.AssemblyInfoInputs.cache
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\obj\Debug\net6.0\Clase_01.AssemblyInfo.cs
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\obj\Debug\net6.0\Clase_01.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\obj\Debug\net6.0\Clase_01.dll
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\obj\Debug\net6.0\refint\Clase_01.dll
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\obj\Debug\net6.0\Clase_01.pdb
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\obj\Debug\net6.0\Clase_01.genruntimeconfig.cache
+D:\Visual Studio\Proyectos\Clase_01\Clase_01\obj\Debug\net6.0\ref\Clase_01.dll
