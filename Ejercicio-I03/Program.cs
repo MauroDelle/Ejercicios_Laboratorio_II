@@ -14,9 +14,12 @@ namespace Ejercicio_I03
             estudiante1.SetNotaSegundoParcial(6);
             estudiante2.SetNotaPrimerParcial(10);
             estudiante2.SetNotaSegundoParcial(9);
+            estudiante3.SetNotaPrimerParcial(3);
+            estudiante3.SetNotaSegundoParcial(8);
 
             Console.WriteLine($"Alumno 1: \n {estudiante1.Mostrar()}");
             Console.WriteLine($"Alumno 2: \n {estudiante2.Mostrar()}");
+
         }
     }
 }
