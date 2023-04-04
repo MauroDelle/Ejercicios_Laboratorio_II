@@ -1,0 +1,27 @@
+Variable tipo Short: 
+
+ Es un tipo de datos numérico que se utiliza para almacenar valores enteros de 16 bits (2 bytes).
+ El rango de valores que se pueden almacenar en una variable de tipo short va desde -32,768 hasta 32,767.
+
+
+ Variable INT:
+
+ int es un tipo de datos numérico de 32 bits,
+ lo que significa que puede almacenar valores enteros que van desde -2,147,483,648 hasta 2,147,483,647. 
+
+
+ Variables tipo Long:
+
+ long es un tipo de datos numérico de 64 bits,
+ lo que significa que puede almacenar valores enteros que van desde -9,223,372,036,854,775,808 hasta 9,223,372,036,854,775,807. 
+ Se utiliza para almacenar números enteros que pueden ser demasiado grandes para caber en un int.
+
+
+
+
+ Variable Constante:
+
+ La principal diferencia entre una variable (o campo) constante y una variable (o campo) regular es que 
+ una constante no puede ser modificada después de su inicialización.
+ En otras palabras, una vez que se ha establecido el valor de una constante, no se puede cambiar durante
+ la ejecución del programa.

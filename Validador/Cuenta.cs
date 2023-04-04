@@ -48,9 +48,5 @@ namespace Clases
         {
             dineroEnCuenta-= monto;
         }
-
-
-
-
     }
 }

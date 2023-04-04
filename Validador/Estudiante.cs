@@ -16,7 +16,6 @@ namespace Clases
         private int notaSegundoParcial;
         private static Random random;
 
-
         static Estudiante()
         {
             random = new Random();
